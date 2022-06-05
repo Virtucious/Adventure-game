@@ -13,4 +13,9 @@ public class Collectable : Collidable
             OnCollect();
         }
     }
+
+    protected virtual void OnCollect()
+    {
+        collected = true;
+    }
 }

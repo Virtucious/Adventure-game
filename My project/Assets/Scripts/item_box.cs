@@ -4,8 +4,15 @@ using UnityEngine;
 
 public class item_box : Collectable
 {
-    protected override void OnCollide(Collider2D coll)
+    public Sprite emptyBox;
+    public int items = 5;
+
+    protected override void OnCollect()
     {
-        base.OnCollide(coll);
+        if (!collected)
+        {
+            collected = true;
+            GetComponent<SpriteRenderer>().sprite = emptyBox;
+        }
     }
 }
