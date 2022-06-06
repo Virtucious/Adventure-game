@@ -740,3 +740,175 @@ Received Import Request.
   path: Assets/Scripts/FloatingText.cs
   artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25aa64971d0c52fd0333974b0e2ca196') in 0.006660 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009930 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\My Projects\Adventure-game\My project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\My Projects\Adventure-game\My project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.404 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2411ms)
+		BeginReloadAssembly (673ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (86ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (266ms)
+		EndReloadAssembly (1495ms)
+			LoadAssemblies (256ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (799ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (461ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (43ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (263ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.19 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4050 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (192.3 KB). Loaded Objects now: 4534.
+Memory consumption went from 151.0 MB to 150.8 MB.
+Total: 7.751000 ms (FindLiveObjects: 0.553000 ms CreateObjectMapping: 0.351100 ms MarkObjects: 6.512000 ms  DeleteObjects: 0.332500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007077 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\My Projects\Adventure-game\My project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\My Projects\Adventure-game\My project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.333 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1333ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1014ms)
+			LoadAssemblies (161ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (315ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (422ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (35ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4051 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (192.5 KB). Loaded Objects now: 4538.
+Memory consumption went from 151.0 MB to 150.8 MB.
+Total: 4.187200 ms (FindLiveObjects: 0.409200 ms CreateObjectMapping: 0.284600 ms MarkObjects: 3.270100 ms  DeleteObjects: 0.222200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8662.288634 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1026246c3251fc7b87433a11a230f1') in 0.015548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.177005 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e000f96414bccfc3c6ed9768ee609e') in 0.008483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.543510 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f8a8f35fd6a2256158bb7f4a589e91') in 0.008422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.704245 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb81d744590b71508821c93032ca1b39') in 0.006814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 128.852182 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85106ecfb8ab0456fef1c5c8e79dd1c0') in 0.005549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.276055 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9bca259aed3ab1dfd14e28c82078c4') in 0.102837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.930403 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b432ed55e3b5ec36d9a1fc2fa1dc6d3') in 0.008879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.822559 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a1e15d0b254e289394f4f8e3897304') in 0.005576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.749509 seconds.
+  path: Assets/Scripts/FloatingTextManager.cs
+  artifactKey: Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingTextManager.cs using Guid(e992b037881290f409843fc6d5e52d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78f6de47bf614628704cd3562510490') in 0.003481 seconds 
