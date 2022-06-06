@@ -686,3 +686,57 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 89.992228 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07213fa498022513af6b09c9081fdcc') in 0.013440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.213925 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b4e60580de7393e10693fe3e5d1764') in 0.010771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.325235 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56169fca4f10a85d07a4c9642a8e60c') in 0.006730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 616.476234 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dccd53c1173e01526baed035dc2ef8c1') in 0.017144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.403722 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58894e5305c67a5e472361dde10b82f7') in 0.008139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.923325 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7156f5b4566590074ba63a868d6d72') in 0.006561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.691802 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec93077363b57803cb44be42850a6a2') in 0.010358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.443600 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe39029bb29ab02855af23258f1c341f') in 0.010386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.906864 seconds.
+  path: Assets/Scripts/FloatingText.cs
+  artifactKey: Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FloatingText.cs using Guid(857dba2df666d144eaead3ba0c2bada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25aa64971d0c52fd0333974b0e2ca196') in 0.006660 seconds 
