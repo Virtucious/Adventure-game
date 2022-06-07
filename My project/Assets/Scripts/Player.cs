@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     private BoxCollider2D boxCollider;
     private Vector3 moveDelta;
+    public Inventory inventory;
     void Start()
     {
         boxCollider = GetComponent<BoxCollider2D>();
@@ -33,5 +34,14 @@ public class Player : MonoBehaviour
         //Make the thing move
         transform.Translate(moveDelta * Time.deltaTime);
 
+    }
+
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+        InventoryItem item = hit.collider.GetComponent<InventoryItem>();
+        if (item != null)
+        {
+            inventory.AddItem(item);
+        }
     }
 }
